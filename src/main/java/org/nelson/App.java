@@ -14,4 +14,5 @@ public class App {
         List<Student> students = studentDao.getStudents();
         students.forEach(s -> System.out.println(s.getFirstName()));
     }
+
 }

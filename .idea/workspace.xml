@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b2e596a-7750-4f31-9b82-c33eb462752f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/nelson/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/nelson/dao/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/nelson/entity/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/nelson/util/HibernateUtil.java" afterDir="false" />
+    <list default="true" id="7b2e596a-7750-4f31-9b82-c33eb462752f" name="Changes" comment="Added project files and dependencies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/nelson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/nelson/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/nelson/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/nelson/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,26 @@
     "project.structure.side.proportion": "0.19885057"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.nelson.App" />
+      <module name="HibernateDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.nelson.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,8 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1668308714851</updated>
       <workItem from="1668515555101" duration="1929000" />
-      <workItem from="1668598369399" duration="7059000" />
+      <workItem from="1668598369399" duration="8470000" />
     </task>
+    <task id="LOCAL-00001" summary="Added project files and dependencies">
+      <created>1668613739905</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668613739905</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project files and dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project files and dependencies" />
   </component>
 </project>
